@@ -1,0 +1,12 @@
+apiVersion: v2
+name: microservice-demo-app
+version: 1.0.0
+description: Helm Chart for deployment of microservices
+keywords:
+- generic_chart
+maintainers:
+- name: Yogita Gangurde
+  email: gangurdeyogita@gmail.com
+name: microservice-demo-app
+sources:
+-  source/code/repo/url" 
