@@ -9,4 +9,4 @@ maintainers:
   email: gangurdeyogita@gmail.com
 name: microservice-demo-app
 sources:
--  source/code/repo/url" 
+-  https://github.com/Yogitatest/microservice-demo.git 
